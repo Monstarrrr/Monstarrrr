@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Monstar</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<img style="width: 50%" align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 - 🔭 Working on [Nutritiv](https://nutritiv-hy.herokuapp.com/)
 
@@ -9,16 +9,23 @@
 
 - 👨‍💻 My projects, tips, ressources, in one place: [https://discord.gg/tFqxqsJj](https://discord.gg/tFqxqsJj)
 
-- 💬 Ask me about: **React, CSS/SCSS, Blender, or The Aerodynamics Of A Cow 🐮**
+- 💬 Ask me about: **React, CSS/SCSS, Blender, my Job Experience, or The Aerodynamics Of A Cow 🐮**
 
-- 📫 **hugobonpain.pro@gmail.com**
+- 📫 **monstar.dev@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/monstarrrrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="monstarrrrr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hugo-bp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo-bp" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/monstar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="monstar" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/8jGGTtprk3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/8jGGTtprk3" height="30" width="40" /></a>
+  <a href="https://codepen.io/monstarrrrr" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="monstarrrrr" height="30" width="40" />
+  </a>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo-bp" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/monstar" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="monstar" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/https://discord.gg/8jGGTtprk3" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/8jGGTtprk3" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,4 +37,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monstarrrr&theme=dark" alt="monstarrrr" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=monstarrrr&label=Profile%20views&color=0e75b6&style=flat" alt="monstarrrr" /> </p>
+<!-- PROFILE VIEWS -->
+<!--
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=monstarrrr&label=Profile%20views&color=0e75b6&style=flat" alt="monstarrrr" /> 
+</p>
+-->
