@@ -1,11 +1,8 @@
-### Hi there 👋
-
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-
-<h1 align="center">Hi 👋, I'm Hugo (aka Monstar)</h1>
+<h1 align="center">Hi 👋, I'm Monstar</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=monstarrrr&label=Profile%20views&color=0e75b6&style=flat" alt="monstarrrr" /> </p>
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=monstarrrr&label=Profile%20views&color=0e75b6&style=flat" alt="monstarrrr" /> </p>
 
 - 🔭 I’m currently working on [Nutritiv](https://nutritiv-hy.herokuapp.com/)
 
