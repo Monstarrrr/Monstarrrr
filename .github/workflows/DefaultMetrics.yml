@@ -13,3 +13,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.base.svg
+          base: header, activity, community, repositories, metadata
+    
