@@ -3,17 +3,15 @@
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
-- 🔭 I’m currently working on [Nutritiv](https://nutritiv-hy.herokuapp.com/)
+- 🔭 Working on [Nutritiv](https://nutritiv-hy.herokuapp.com/)
 
-- 🌱 I’m currently learning **Next.js, Svelte.js, RTK Query, Python**
+- 🌱 Learning: **Next.js, Svelte.js, RTK Query, Python**
 
-- 👨‍💻 All my projects, tips, ressources, in one place [https://discord.gg/tFqxqsJj](https://discord.gg/tFqxqsJj)
+- 👨‍💻 My projects, tips, ressources, in one place: [https://discord.gg/tFqxqsJj](https://discord.gg/tFqxqsJj)
 
-- 💬 Ask me about **React, CSS/SCSS, Blender, The Aerodynamics Of A Cow**
+- 💬 Ask me about: **React, CSS/SCSS, Blender, or The Aerodynamics Of A Cow 🐮**
 
-- 📫 Reach me at **hugobonpain.pro@gmail.com**
-
-- 📄 Note about me [My online usernames are "Monstar" & "Monstarrrr"](My online usernames are "Monstar" & "Monstarrrr")
+- 📫 **hugobonpain.pro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
