@@ -72,10 +72,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monstarrrr&show_icons=true&theme=dark&locale=en&layout=compact" alt="monstarrrr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monstarrrr&show_icons=true&theme=dark&locale=en" alt="monstarrrr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monstarrrr&theme=dark" alt="monstarrrr" /></p>
-
 <!-- PROFILE VIEWS -->
 <!--
 <p align="center"> 
