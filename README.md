@@ -1,7 +1,7 @@
 <h1 align="center">🌀 Welcome, I'm Monstar 🌀</h1>
 <h3 align="center">🪶 A passionate frontend developer from France 🪶</h3>
 
-<img style="width: 50%" align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<br />
 
 <h3 align="left">Bio</h3>
 
@@ -15,20 +15,31 @@
   
 > 📧 **monstar.dev@protonmail.com**
 
+<br />
+<h3 align="left">Stats</h3>
+<img style="max-width: 506px" align="left" src="/github-metrics.svg" alt="Metrics">
+<br /><br /><br /><br /><br />
+<img style="max-width: 506px" align="left" src="/metrics.plugin.habits.facts.svg" alt="Stats">
+
+<br />
 <h3 align="left">Socials</h3>
 <p align="left">
-  <a href="https://codepen.io/monstarrrrr" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="monstarrrrr" height="30" width="40" />
-  </a>
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monstar" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/monstar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="monstar" height="30" width="40" />
-  </a>
   <a href="https://discord.gg/https://discord.gg/8jGGTtprk3" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/8jGGTtprk3" height="30" width="40" />
   </a>
+  <!--
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monstar" height="30" width="40" />
+  </a>
+  -->
+  <a href="https://stackoverflow.com/users/monstar" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="monstar" height="30" width="40" />
+  </a>
+  <a href="https://codepen.io/monstarrrrr" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="monstarrrrr" height="30" width="40" />
+  </a>
 </p>
+
+<br />
 
 <h3 align="left">Skills</h3>
 <p align="left">
@@ -70,7 +81,10 @@
   </a> 
 </p>
 
+<!-- Top prog languages -->
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monstarrrr&show_icons=true&theme=dark&locale=en&layout=compact" alt="monstarrrr" /></p>
+-->
 
 <!-- PROFILE VIEWS -->
 <!--
