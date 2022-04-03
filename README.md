@@ -5,15 +5,15 @@
 
 <h3 align="left">Bio</h3>
 
-> 🔭 Working on [Nutritiv](https://nutritiv-hy.herokuapp.com/) at [KIWI LABS™️](https://discord.gg/tFqxqsJj)
-
-> 🌱 Learning **Next.js, Svelte.js, Typescript, RTK Query, Python ...**
-
-> 👨‍💻 My Projects, Tips, Ressources, in one place: [KIWI LABS™️](https://discord.gg/tFqxqsJj)
-
-> 💬 Ask me about **React, CSS/SCSS, Blender, my Job Experience, or The Aerodynamics Of A Cow 🐮**
-
-> 📫 **monstar.dev@protonmail.com**
+> 👨🏻‍💻 Working on [Nutritiv](https://nutritiv-hy.herokuapp.com/) at [KIWI LABS™️](https://discord.gg/tFqxqsJj)
+  
+> 🔭 Learning **Next.js, Svelte.js, Typescript, RTK Query, Python ...**
+  
+> 📁 My Projects, Tips, Ressources, in one place: [KIWI LABS™️](https://discord.gg/tFqxqsJj)
+  
+> ☕ Ask me about **React, SCSS, Blender, my Job Experience, or the Aerodynamics of a Cow 🐮**
+  
+> 📧 **monstar.dev@protonmail.com**
 
 <h3 align="left">Socials</h3>
 <p align="left">
