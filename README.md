@@ -17,7 +17,7 @@
 
 <br />
 <h3 align="left">Stats</h3>
-<img style="max-width: 506px" align="left" src="/github-metrics.svg" alt="Metrics">
+<img style="max-width: 506px" align="left" src="/metrics.base.svg" alt="Metrics">
 <br /><br /><br /><br /><br />
 <img style="max-width: 506px" align="left" src="/metrics.plugin.habits.facts.svg" alt="Stats">
 
