@@ -7,11 +7,11 @@
 
 > 👨🏻‍💻 Working on [Nutritiv](https://nutritiv-hy.herokuapp.com/) at [KIWI LABS™️](https://discord.gg/tFqxqsJj)
   
-> 🔭 Learning **Next.js, Svelte.js, Typescript, RTK Query, Python ...**
+> ☕ Ask me about **React, SCSS, Blender, my Past Experiences, or the Aerodynamics of a Cow 🐮**
   
 > 📁 My Projects, Tips, Ressources, in one place: [KIWI LABS™️](https://discord.gg/tFqxqsJj)
   
-> ☕ Ask me about **React, SCSS, Blender, my Job Experience, or the Aerodynamics of a Cow 🐮**
+> 🔭 Learning **Next.js, Svelte.js, Typescript, RTK Query, Python ...**
   
 > 📧 **monstar.dev@protonmail.com**
 
