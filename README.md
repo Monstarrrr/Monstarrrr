@@ -17,29 +17,9 @@
 
 <br />
 <h3 align="left">Stats</h3>
-<img style="max-width: 506px" align="left" src="/metrics.base.svg" alt="Metrics">
+<img style="max-width: 50%" align="left" src="/metrics.base.svg" alt="Metrics">
 <br /><br /><br /><br /><br />
-<img style="max-width: 506px" align="left" src="/metrics.plugin.habits.facts.svg" alt="Stats">
-
-<br />
-<h3 align="left">Socials</h3>
-<p align="left">
-  <a href="https://discord.gg/https://discord.gg/tFqxqsJj" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/8jGGTtprk3" height="30" width="40" />
-  </a>
-  <!--
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monstar" height="30" width="40" />
-  </a>
-  -->
-  <a href="https://stackoverflow.com/users/11149106/monstar" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="monstar" height="30" width="40" />
-  </a>
-  <a href="https://codepen.io/monstarrrrr" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="monstarrrrr" height="30" width="40" />
-  </a>
-</p>
-
-<br />
+<img style="max-width: 50%" align="left" src="/metrics.plugin.habits.facts.svg" alt="Stats">
 
 <h3 align="left">Skills</h3>
 <p align="left">
@@ -80,6 +60,26 @@
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
   </a> 
 </p>
+
+<br />
+<h3 align="left">Socials</h3>
+<p align="left">
+  <a href="https://discord.gg/https://discord.gg/tFqxqsJj" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/8jGGTtprk3" height="30" width="40" />
+  </a>
+  <!--
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monstar" height="30" width="40" />
+  </a>
+  -->
+  <a href="https://stackoverflow.com/users/11149106/monstar" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="monstar" height="30" width="40" />
+  </a>
+  <a href="https://codepen.io/monstarrrrr" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="monstarrrrr" height="30" width="40" />
+  </a>
+</p>
+
+<br />
 
 <!-- Top prog languages -->
 <!--
