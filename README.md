@@ -5,11 +5,11 @@
 
 <h3 align="left">Bio</h3>
 
-> 👨🏻‍💻 Working on [Nutritiv](https://nutritiv-hy.herokuapp.com/) at [KIWI LABS™️](https://discord.gg/tFqxqsJj)
+> 👨🏻‍💻 Working on [Nutritiv](https://nutritiv-hy.herokuapp.com/) at [KIWI LABS™️](https://discord.gg/shj48F8XBd)
   
 > ☕ Ask me about **React, SCSS, Blender, my Past Experiences, or the Aerodynamics of Cows 🐮**
   
-> 📁 My Projects, Tips, Ressources, in one place: [KIWI LABS™️](https://discord.gg/tFqxqsJj)
+> 📁 My Projects, Tips, Ressources, in one place: [KIWI LABS™️](https://discord.gg/shj48F8XBd)
   
 > 🔭 Learning **Next.js, Svelte.js, Typescript, RTK Query, Python ...**
   
@@ -64,7 +64,7 @@
 <br />
 <h3 align="left">Socials</h3>
 <p align="left">
-  <a href="https://discord.gg/https://discord.gg/tFqxqsJj" target="_blank">
+  <a href="https://discord.gg/https://discord.gg/shj48F8XBd" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/8jGGTtprk3" height="30" width="40" />
   </a>
   <!--
