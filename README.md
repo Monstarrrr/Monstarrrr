@@ -7,7 +7,7 @@
 
 > 👨🏻‍💻 Working on [Nutritiv](https://nutritiv-hy.herokuapp.com/) at [KIWI LABS™️](https://discord.gg/shj48F8XBd)
   
-> ☕ Ask me about **React, SCSS, Blender, my Past Experiences, or the Aerodynamics of Cows 🐮**
+> ☕ Ask me about **ReactJS, SCSS, Blender, my Past Experiences, or the Aerodynamics of Cows 🐮**
   
 > 📁 My Projects, Tips, Ressources, in one place: [KIWI LABS™️](https://discord.gg/shj48F8XBd)
   
