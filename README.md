@@ -74,7 +74,7 @@
   <a href="https://stackoverflow.com/users/11149106/monstar" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="monstar" height="30" width="40" />
   </a>
-  <a href="https://codepen.io/monstarrrrr" target="_blank">
+  <a href="https://codepen.io/monstarrrr" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="monstarrrrr" height="30" width="40" />
   </a>
 </p>
