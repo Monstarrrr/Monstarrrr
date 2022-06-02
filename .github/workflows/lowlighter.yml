@@ -25,9 +25,9 @@ jobs:
           base: header, activity, community
           config_timezone: Europe/Paris
           plugin_stackoverflow: yes
-          plugin_stackoverflow_limit: 4
-          plugin_stackoverflow_lines: 6
-          plugin_stackoverflow_lines_snippet: 4
+          plugin_stackoverflow_limit: 2
+          plugin_stackoverflow_lines: 4
+          plugin_stackoverflow_lines_snippet: 2
           plugin_stackoverflow_sections: answers-top
           plugin_stackoverflow_user: 11149106
           plugin_habits: yes
