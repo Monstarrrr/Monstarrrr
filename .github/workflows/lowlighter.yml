@@ -22,8 +22,18 @@ jobs:
         with:
           filename: metrics.plugin.habits.facts.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          base: header, activity, community
+          config_timezone: Europe/Paris
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_limit: 4
+          plugin_stackoverflow_lines: 6
+          plugin_stackoverflow_lines_snippet: 4
+          plugin_stackoverflow_sections: answers-top
+          plugin_stackoverflow_user: 11149106
           plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
-          config_timezone: Europe/Paris
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
