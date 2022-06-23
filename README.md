@@ -17,9 +17,8 @@
 
 <br />
 <h3 align="left">Stats</h3>
-<img style="max-width: 40%" align="left" src="/metrics.base.svg" alt="Metrics">
-<br /><br /><br /><br /><br />
 <img style="max-width: 40%" align="left" src="/metrics.plugin.habits.facts.svg" alt="Stats">
+<br /><br /><br /><br /><br />
 
 <h3 align="left">Skills</h3>
 <p align="left">
