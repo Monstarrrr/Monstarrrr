@@ -5,7 +5,7 @@
 
 <h3 align="left">Bio</h3>
 
-> 👨🏻‍💻 Working on Aktualivia (AI generated real-time news reports) at [KIWI LABS™️](https://discord.gg/shj48F8XBd)
+> 👨🏻‍💻 Working on Rebutify (A web platform where experts submit rebutals for comon arguments against social justice movements) at [KIWI LABS™️](https://discord.gg/shj48F8XBd)
   
 > ☕ Ask me about **ReactJS, SCSS, UI/UX, Blender, my Past Experiences, or the Aerodynamics of Cows 🐮**
   
