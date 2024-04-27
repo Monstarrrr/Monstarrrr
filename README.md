@@ -11,7 +11,7 @@
   
 > 📁 My Projects, Tips, Ressources, in one place: [KIWI LABS™️](https://discord.gg/shj48F8XBd)
   
-> 🔭 In the near future I will learn **Next.js, Svelte.js, Typescript, RTK Query, Python ...**
+> 🔭 In the near future I will learn **RTK Query, Python ...**
   
 > 📧 **monstar.dev@protonmail.com**
 
