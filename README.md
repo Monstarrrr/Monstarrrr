@@ -7,7 +7,7 @@
 
 > 👨🏻‍💻 Working on [Rebutify](https://github.com/Monstarrrr/rebutify) (A web platform where experts submit rebutals for comon arguments against social justice movements) at [KIWI LABS™️](https://discord.gg/shj48F8XBd)
   
-> ☕ Ask me about **ReactJS, SCSS, UI/UX, Blender, my Past Experiences, or the Aerodynamics of Cows 🐮**
+> ☕ Ask me about **ReactJS, SCSS, UI/UX, Blender, my Past Experiences, or Veganism 🐮**
   
 > 📁 My Projects, Tips, Ressources, in one place: [KIWI LABS™️](https://discord.gg/shj48F8XBd)
   
