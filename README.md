@@ -90,9 +90,10 @@
     <img align="center" src="https://dam.malt.com/rebranding2020/malt-logo/malt-red" alt="monstar" height="40" width="55" />
   </a>
   -->
-  <a href="https://codepen.io/monstarrrr" target="_blank">
+  <!-- <a href="https://codepen.io/monstarrrr" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="monstarrrrr" height="40" width="50" />
-  </a>
+  </a> 
+  -->
 </p>
 
 <br />
