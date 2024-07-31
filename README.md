@@ -5,7 +5,7 @@
 
 <h3 align="left">Bio</h3>
 
-> 👨🏻‍💻 Working on [Rebutify](https://github.com/Monstarrrr/rebutify) (A web platform where experts submit rebuttals for common arguments against social justice movements) at [KIWI LABS™️](https://discord.gg/shj48F8XBd)
+> 👨🏻‍💻 Working on [Rebutify](https://github.com/Monstarrrr/rebutify) (A Community Platform for Interpersonal Communication on Social Justice Movements) at [KIWI LABS™️](https://discord.gg/shj48F8XBd)
   
 > ☕ Ask me about **ReactJS, SCSS, UI/UX, Blender, my Past Experiences, or Veganism 🐮**
   
