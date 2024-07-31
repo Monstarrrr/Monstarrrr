@@ -9,7 +9,7 @@
   
 > ☕ Ask me about **ReactJS, SCSS, UI/UX, Blender, my Past Experiences, or Veganism 🐮**
   
-> 📁 Find some of my projects in my [portfolio](https://discord.gg/shj48F8XBd).
+> 📁 Find some of my projects in my [portfolio](https://docs.google.com/presentation/d/1eEHomvSJBeBji7wUW5fhWT2c-9RygU4slVF4zb-OFjs/edit?usp=sharing).
   
 > 🔭 In the near future I will learn **RTK Query, Qwik, SolidJS ...**
 
