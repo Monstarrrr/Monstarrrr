@@ -13,7 +13,7 @@
   
 > 🔭 In the near future I will learn **RTK Query, Qwik, SolidJS ...**
 
-> 🧊 Enjoy a complete automated [3D animation video](https://youtu.be/8z5CAcl1IsI) project that I made from scratch in [over 2,000 hours in Blender](https://i.imgur.com/JWyp029.png) 
+> 🧊 Enjoy a fully automated [3D animation video](https://youtu.be/8z5CAcl1IsI) project that I made from scratch in [over 2,000 hours in Blender](https://i.imgur.com/JWyp029.png) 
   
 > 📧 **monstar.dev@protonmail.com**
 
