@@ -5,7 +5,7 @@
 
 <h3 align="left">Bio</h3>
 
-> 👨🏻‍💻 Working on [Rebutify](https://github.com/Monstarrrr/rebutify), a Community Platform for Interpersonal Communication on Social Movements, at [KIWI LABS™️](https://discord.gg/shj48F8XBd)
+> 👨🏻‍💻 Working on [Rebutify](https://github.com/Monstarrrr/rebutify), a Community Platform for Interpersonal Communication on Social Movements, at [KIWI LABS™️](https://discord.gg/shj48F8XBd)*
   
 > ☕ Ask me about **ReactJS, SCSS, UI/UX, Blender, my Past Experiences, or Veganism 🐮**
   
@@ -16,6 +16,8 @@
 > 🧊 Enjoy a fully automated [3D animation video](https://youtu.be/8z5CAcl1IsI) project that I made from scratch in [over 2,000 hours in Blender](https://i.imgur.com/JWyp029.png) 
   
 > 📧 **monstar.dev@protonmail.com**
+
+*Kiwi Labs is a group of volunteer developers working on open source projects that aim to make the world a better place.
 
 <br />
 <h3 align="left">Stats</h3>
