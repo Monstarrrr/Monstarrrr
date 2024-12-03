@@ -7,7 +7,7 @@
 
 > 👨🏻‍💻 Working on [Rebutify](https://github.com/Monstarrrr/rebutify), a Community Platform for Interpersonal Communication on Social Movements, at [KIWI LABS™️](https://discord.gg/shj48F8XBd)*
   
-> ☕ Ask me about **ReactJS, SCSS, UX/UI, Blender, Godot, my Past Experiences, or Veganism 🐮**
+> ☕ Ask me about **ReactJS, SCSS, UX/UI, Art, my Past Experiences, or Veganism 🐮**
   
 > 📁 Find some of my projects in my [portfolio](https://docs.google.com/presentation/d/1eEHomvSJBeBji7wUW5fhWT2c-9RygU4slVF4zb-OFjs/edit?usp=sharing).
   
