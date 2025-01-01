@@ -5,8 +5,8 @@
 
 <h3 align="left">Bio</h3>
 
-> 👨🏻‍💻 Working on [Rebutify](https://github.com/Monstarrrr/rebutify), a Community Platform for Improving Social Movements Communication, at [KIWI LABS™️](https://discord.gg/shj48F8XBd)*
-  
+> 👨🏻‍💻 Working on [Rebutify](https://github.com/Monstarrrr/rebutify), a Community Platform for Improving Social Movements Communication, at KIWI LABS™️*
+
 > ☕ Ask me about **ReactJS, SCSS, UX/UI, Art, my Past Experiences, or Veganism 🐮**
   
 > 📁 Find some of my projects visuals in my [portfolio](https://docs.google.com/presentation/d/1eEHomvSJBeBji7wUW5fhWT2c-9RygU4slVF4zb-OFjs/edit?usp=sharing).
