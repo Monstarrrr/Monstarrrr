@@ -17,7 +17,7 @@
   
 > 📧 **monstar.dev@protonmail.com**
 
-*_Kiwi Labs is a group of volunteer developers working on open source projects that aim to make the world a better place._
+*_Kiwi Labs is a group of volunteer developers working on open source projects that aim to make the world a more fair place._
 
 <br />
 <h3 align="left">Stats</h3>
