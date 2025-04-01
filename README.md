@@ -1,4 +1,4 @@
-<h1 align="center">🌀 Welcome, I'm Monstar 🌀</h1>
+<h1 align="center">🌀 Welcome, I'm Hugo 🌀</h1>
 <h3 align="center">🪶 A passionate front-end developer from France 🪶</h3>
 
 <br />
