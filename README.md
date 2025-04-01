@@ -1,21 +1,21 @@
 <h1 align="center">🌀 Welcome, I'm Hugo 🌀</h1>
-<h3 align="center">🪶 A passionate front-end developer from France 🪶</h3>
+<h3 align="center">🪶 A passionate web developer from France 🪶</h3>
 
 <br />
 
 <h3 align="left">Bio</h3>
 
-> 👨🏻‍💻 Working on [Rebutify](https://github.com/Monstarrrr/rebutify), a Community Platform for Improving Social Movements Communication, at KIWI LABS™️*
+> 👨🏻‍💻 5 years experience (3 years for clients; 2 years entrepreneurship & open source volunteering @ Kiwi Labs*)
 
-> ☕ Ask me about **Bouldering, Cinema, Psychology, Philosophy or Veganism 🐮**
+> ☕ Ask me about **React ☣️, Cinema 🎥, Climbing ⛰️, Psychology 🧠 or Philosophy 🤔**
   
-> 📁 Find some of my projects visuals in my [portfolio](https://docs.google.com/presentation/d/1eEHomvSJBeBji7wUW5fhWT2c-9RygU4slVF4zb-OFjs/edit?usp=sharing).
+> 📁 Find some of my projects visuals in my [portfolio](https://docs.google.com/presentation/d/1eEHomvSJBeBji7wUW5fhWT2c-9RygU4slVF4zb-OFjs/edit?usp=sharing) (partially complete).
   
-> 🔭 In the near future I will learn **RTK Query, Qwik, SolidJS ...**
+> 🔭 In the near future I will learn **more back-end development concepts.**
 
 > 🧊 Enjoy a fully automated [3D animation video](https://youtu.be/8z5CAcl1IsI) project that I made from scratch in [over 2,000 hours in Blender](https://i.imgur.com/JWyp029.png) 
   
-> 📧 **monstar.dev@protonmail.com**
+> 📧 Contact me at **hugobonpain.pro@gmail.com**
 
 *_Kiwi Labs is a group of volunteer developers working on open source projects that aim to make the world a more fair place._
 
