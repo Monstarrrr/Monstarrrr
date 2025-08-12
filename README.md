@@ -5,7 +5,7 @@
 
 <h3 align="left">Bio</h3>
 
-> 👨🏻‍💻 5 years experience (3 years for clients; 2 years entrepreneurship & open source volunteering @ Kiwi Labs*)
+> 👨🏻‍💻 5+ years experience (for clients; entrepreneurship & open source volunteering @ Kiwi Labs*)
 
 > ☕ Ask me about **React ☣️, Cinema 🎥, Climbing ⛰️, Psychology 🧠 or Philosophy 🤔**
   
