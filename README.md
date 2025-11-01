@@ -7,7 +7,7 @@
 
 > 👨🏻‍💻 5+ years experience (for clients; entrepreneurship & open source volunteering @ Kiwi Labs*)
 
-> ☕ Ask me about **React ☣️, Cinema 🎥, Climbing ⛰️, Psychology 🧠 or Philosophy 🤔**
+> ☕ Ask me about **React ☣️, Music 🎹, Cinema 🎥 or Climbing ⛰️**
   
 > 📁 Find some of my projects visuals in my [portfolio](https://docs.google.com/presentation/d/1eEHomvSJBeBji7wUW5fhWT2c-9RygU4slVF4zb-OFjs/edit?usp=sharing) (partially complete).
   
